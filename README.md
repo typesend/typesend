@@ -1,3 +1,3 @@
-# GitHub Profile Test
+## Hello, I'm Ben Damman! 👋
 
-wheeeeee
+[LinkedIn](https://www.linkedin.com/in/bendamman/)
