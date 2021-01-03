@@ -3,5 +3,5 @@
 [LinkedIn](https://www.linkedin.com/in/bendamman/)
 
 <pre>
-Wisconsin -> Minnesota -> Cupertino -> **Tahoe** <- Washington, D.C.
+Wisconsin -> Minnesota -> Cupertino -> Tahoe <-> Washington, D.C. -> Missoula
 </pre>
